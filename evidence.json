@@ -1,0 +1,16 @@
+{
+  "pull_request": "https://github.com/VlcekM/MeitouClient/pull/190",
+  "captures_at": "bbe64293172630091ec2ca80464802c733554a36",
+  "left": "Original Kenshi 1.0.68, Windows VM, vanilla",
+  "right": "Meitou Metal, vanilla, same copied save",
+  "composition": "Meitou native titlebar cropped; original game frames otherwise unaltered and labelled side by side. Camera and game time were not locked together. No performance comparison is implied.",
+  "files": [
+    "01-stool-use-menu.png",
+    "02-stool-sitting.png",
+    "03-bench-use-menu.png",
+    "04-bench-sitting.png",
+    "05-stop.png",
+    "06-ground-move.png",
+    "07-side-stool-sitting.png"
+  ]
+}
