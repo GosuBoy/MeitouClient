@@ -1,0 +1,32 @@
+{
+  "native": "Kenshi 1.0.68 Windows, vanilla assets",
+  "meitou": "Metal Release build from PR #190 expanded sitting changes",
+  "sourceCommit": "09edd621fcdc2a2b663cb4d51dfb4643ab61061b",
+  "fixtures": "Identical authored vanilla player-owned fixtures; three groups; humanoid character; no runtime simulation hooks",
+  "layout": "Original native left, Meitou right; qualitative camera/clock/lighting differences",
+  "nativeBenchYawRadians": 1.5509452,
+  "benchPositionXZ": [
+    -50595,
+    -1005
+  ],
+  "benchPlacementYaw": 0,
+  "benchNearestTableXZ": [
+    -50595,
+    -1017
+  ],
+  "files": [
+    "01-pillow-before.jpg",
+    "02-pillow-after.jpg",
+    "03-box-after.jpg",
+    "04-stool-after.jpg",
+    "05-old-stool-after.jpg",
+    "06-bench-before.jpg",
+    "07-bench-after.jpg",
+    "08-throne-after.jpg",
+    "09-hive-queen-throne-after.jpg",
+    "10-outhouse-after.jpg",
+    "11-invisible-before.jpg",
+    "12-invisible-after.jpg",
+    "13-bench-stop-after.jpg"
+  ]
+}
